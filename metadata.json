@@ -1,0 +1,6 @@
+{
+  "name": "Smart Expense Tracker",
+  "description": "A modern personal finance dashboard to track income, expenses, budgets, savings goals, and spending analytics locally.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
